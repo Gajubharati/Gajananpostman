@@ -1,0 +1,21 @@
+[
+
+	{
+	"endpoint" : "api/register/qa",
+
+	"email"  : "ushabharti.holt@reqres.in",
+
+	"password" : "Gaju@123"
+
+	},
+
+{
+	"endpoint" : "api/register/dev",
+
+	"email"  : "vijay.holt@reqres.in",
+
+	"password" : "Admin@123"
+
+}
+
+]
